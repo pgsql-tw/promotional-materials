@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="400"
+   viewBox="0 0 317.49999 105.83334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="pgsql-tw-sticker-3.svg"
+   inkscape:export-filename="D:\OneDrive\Downloads\pgsql-tw-sticker-3.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-81.428571"
+     inkscape:cy="217.14286"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-191.16665)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:63.98625565px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.59965646"
+       x="3.3920345"
+       y="260.77374"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="3.3920345"
+         y="260.77374"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner Bold';stroke-width:1.59965646">Postgre<tspan
+   style="fill:#336791;fill-opacity:1;stroke-width:1.59965646"
+   id="tspan1433">SQ</tspan></tspan></text>
+    <path
+       id="path24"
+       d="m 300.97583,212.91418 c 2.13232,-3.55387 4.62001,-3.02075 7.1077,0.71076 3.19847,-1.77691 6.21924,1.77696 1.42153,3.55386 -1.77691,3.55388 1.24386,5.33078 0,8.88466 -1.42153,3.5538 -4.2646,5.33077 -4.2646,9.23998 0,4.62003 -1.77694,7.10767 -1.77694,11.3723 0,3.55387 -1.77692,6.57464 -3.55385,9.41769 -0.35538,2.84312 -3.55384,2.84312 -3.90924,5.33078 -1.77691,4.08698 -2.31,8.88465 -2.48768,12.97155 -4.7977,2.48773 -1.77693,-5.33077 -5.33078,-7.10767 -3.55385,-3.55387 -1.77693,-2.13232 -5.33078,-4.79773 -2.84306,0 -1.77692,-5.33077 -5.33078,-8.52925 -1.77691,-3.5538 0,-5.33077 1.24386,-8.35152 0,-3.55381 -1.77693,-5.86383 4.44231,-11.1946 3.55385,-8.88465 7.1077,-8.88465 8.88463,-14.92618 1.77693,-1.77696 7.1077,-7.10773 10.66154,-7.10773 z"
+       inkscape:connector-curvature="0"
+       style="fill:#336791;fill-opacity:1;stroke:#336791;stroke-width:1.06615508;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+</svg>
